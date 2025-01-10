@@ -1,4 +1,6 @@
+![](images/pku.png)
 # Emergent-Language-For-Kinship-Terms
+
 <p align="center">
     <img src="images/task.png" width="45%" />
     <img src="images/tree.png" width="45%" height="200%" />
