@@ -1,0 +1,8 @@
+{"time":"2024-12-10T22:51:45.910349691+08:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-10T22:51:45.910360033+08:00","level":"INFO","msg":"created symlink","path":"/home/Kinship_Egg/EGG/my_code/wandb/run-20241210_225145-ulv0w0pv/logs/debug-core.log"}
+{"time":"2024-12-10T22:51:46.013031362+08:00","level":"INFO","msg":"created new stream","id":"ulv0w0pv"}
+{"time":"2024-12-10T22:51:46.013053579+08:00","level":"INFO","msg":"stream: started","id":"ulv0w0pv"}
+{"time":"2024-12-10T22:51:46.013068412+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"ulv0w0pv"}
+{"time":"2024-12-10T22:51:46.013076699+08:00","level":"INFO","msg":"handler: started","stream_id":"ulv0w0pv"}
+{"time":"2024-12-10T22:51:46.013081946+08:00","level":"INFO","msg":"sender: started","stream_id":"ulv0w0pv"}
+{"time":"2024-12-10T22:51:46.896987864+08:00","level":"INFO","msg":"Starting system monitor"}

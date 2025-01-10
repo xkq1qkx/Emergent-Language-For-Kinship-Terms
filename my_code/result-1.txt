@@ -1,0 +1,2 @@
+| Epoch | Train Loss | Train F1_score | Train Acc_score | Train Precision | Train recall | Test Loss  | Test F1_score | Test Acc_score| Test Precision | Test Recall |
+|     0 |    0.00000 |     0.00000    |     0.00000    |   0.00000 |   0.00000 |   0.01487 |   0.46278 |   0.91563 |    0.42513    |    0.50776    |

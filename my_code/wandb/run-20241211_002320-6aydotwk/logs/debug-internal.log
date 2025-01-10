@@ -1,0 +1,16 @@
+{"time":"2024-12-11T00:23:20.236439558+08:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-11T00:23:20.236455734+08:00","level":"INFO","msg":"created symlink","path":"/home/Kinship_Egg/EGG/my_code/wandb/run-20241211_002320-6aydotwk/logs/debug-core.log"}
+{"time":"2024-12-11T00:23:20.338587567+08:00","level":"INFO","msg":"created new stream","id":"6aydotwk"}
+{"time":"2024-12-11T00:23:20.338607397+08:00","level":"INFO","msg":"stream: started","id":"6aydotwk"}
+{"time":"2024-12-11T00:23:20.338622633+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"6aydotwk"}
+{"time":"2024-12-11T00:23:20.338630295+08:00","level":"INFO","msg":"handler: started","stream_id":"6aydotwk"}
+{"time":"2024-12-11T00:23:20.338630568+08:00","level":"INFO","msg":"sender: started","stream_id":"6aydotwk"}
+{"time":"2024-12-11T00:23:21.004799094+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-11T00:24:34.6357235+08:00","level":"INFO","msg":"stream: closing","id":"6aydotwk"}
+{"time":"2024-12-11T00:24:34.635753603+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-11T00:24:34.636122578+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-11T00:24:35.560752975+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-11T00:24:36.371505937+08:00","level":"INFO","msg":"handler: closed","stream_id":"6aydotwk"}
+{"time":"2024-12-11T00:24:36.371529786+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"6aydotwk"}
+{"time":"2024-12-11T00:24:36.371567017+08:00","level":"INFO","msg":"sender: closed","stream_id":"6aydotwk"}
+{"time":"2024-12-11T00:24:36.371585955+08:00","level":"INFO","msg":"stream: closed","id":"6aydotwk"}

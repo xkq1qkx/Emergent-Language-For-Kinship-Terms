@@ -1,0 +1,8 @@
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 2667/2667 [01:02<00:00, 42.74it/s]
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 666/666 [00:08<00:00, 78.62it/s]
+Traceback (most recent call last):
+  File "/home/Kinship_Egg/EGG/my_code/test.py", line 178, in <module>
+    trainer.train(n_epochs)
+  File "/home/Kinship_Egg/EGG/egg/core/trainers.py", line 342, in train
+    "test_lossn": test_lossn, "test_f1_scoren": test_f1_scoren,"test_acc_scoren":test_acc_scorenv,
+NameError: name 'test_acc_scorenv' is not defined

@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: EGG
+Version: 0.1.0
+Summary: Emergence of lanGuage in Games (EGG): A toolbox for language games research
+Home-page: https://github.com/facebookresearch/EGG
+Author: Eugene Kharitonov
+Author-email: kharitonov@fb.com
+License-File: LICENSE
+Requires-Dist: torch>=1.1.0
+Requires-Dist: torchvision
+Requires-Dist: scipy
+Requires-Dist: numpy
+Requires-Dist: pytest
+Requires-Dist: editdistance
+Requires-Dist: dataclasses
+Requires-Dist: rich
+Requires-Dist: scikit-learn
+Requires-Dist: wandb
+Requires-Dist: submitit

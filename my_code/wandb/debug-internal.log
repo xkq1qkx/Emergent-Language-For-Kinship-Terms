@@ -1,0 +1,17 @@
+{"time":"2024-12-12T02:20:33.22831855+08:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-12T02:20:33.228328941+08:00","level":"INFO","msg":"created symlink","path":"/home/Kinship_Egg/EGG/my_code/wandb/run-20241212_022033-jc26g8o5/logs/debug-core.log"}
+{"time":"2024-12-12T02:20:33.329621787+08:00","level":"INFO","msg":"created new stream","id":"jc26g8o5"}
+{"time":"2024-12-12T02:20:33.329639858+08:00","level":"INFO","msg":"stream: started","id":"jc26g8o5"}
+{"time":"2024-12-12T02:20:33.329654181+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"jc26g8o5"}
+{"time":"2024-12-12T02:20:33.329662916+08:00","level":"INFO","msg":"handler: started","stream_id":"jc26g8o5"}
+{"time":"2024-12-12T02:20:33.329662302+08:00","level":"INFO","msg":"sender: started","stream_id":"jc26g8o5"}
+{"time":"2024-12-12T02:20:33.978552308+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-12T02:54:46.793037784+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-12T02:54:46.793406176+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-12T02:54:47.793367613+08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.403603969,"progress":"484B/484B"},{"desc":"uploading config.yaml","runtime_seconds":0.281767903,"progress":"675B/675B"},{"desc":"uploading output.log","runtime_seconds":0.281759249,"progress":"25.8KB/25.8KB"}],"total_operations":3}}
+{"time":"2024-12-12T02:54:48.357593047+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-12T02:54:49.946908968+08:00","level":"INFO","msg":"stream: closing","id":"jc26g8o5"}
+{"time":"2024-12-12T02:54:49.946923038+08:00","level":"INFO","msg":"handler: closed","stream_id":"jc26g8o5"}
+{"time":"2024-12-12T02:54:49.946929737+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"jc26g8o5"}
+{"time":"2024-12-12T02:54:49.946938092+08:00","level":"INFO","msg":"sender: closed","stream_id":"jc26g8o5"}
+{"time":"2024-12-12T02:54:49.946965052+08:00","level":"INFO","msg":"stream: closed","id":"jc26g8o5"}

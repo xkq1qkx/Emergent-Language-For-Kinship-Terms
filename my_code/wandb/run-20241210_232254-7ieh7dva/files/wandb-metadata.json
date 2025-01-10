@@ -1,0 +1,32 @@
+{
+  "os": "Linux-5.15.0-125-generic-x86_64-with-glibc2.35",
+  "python": "CPython 3.10.15",
+  "startedAt": "2024-12-10T15:22:54.249500Z",
+  "program": "/home/Kinship_Egg/EGG/my_code/test.py",
+  "codePath": "my_code/test.py",
+  "git": {
+    "remote": "https://github.com/facebookresearch/EGG.git",
+    "commit": "f36d123af22eb0d127d2089c993b4eff8314a43d"
+  },
+  "email": "2200012852@stu.pku.edu.cn",
+  "root": "/home/Kinship_Egg/EGG/my_code",
+  "host": "iZ2ze5wqsdy8f2mia6jebaZ",
+  "username": "root",
+  "executable": "/root/anaconda3/envs/egg/bin/python",
+  "codePathLocal": "test.py",
+  "cpu_count": 8,
+  "cpu_count_logical": 16,
+  "disk": {
+    "/": {
+      "total": "41882943488",
+      "used": "21827207168"
+    }
+  },
+  "memory": {
+    "total": "132514508800"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 16
+  }
+}
