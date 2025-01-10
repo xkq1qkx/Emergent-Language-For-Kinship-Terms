@@ -6,7 +6,7 @@ import numpy as np
 
 class KinshipDataset(Dataset):
     def __init__(self,mode="train",max_nodes=21):
-        with open("/Users/kunqixu/Desktop/Kinship/EGG_aliyun/my_code/"+mode+"_set.json", 'r') as f:
+        with open("/Users/kunqixu/Desktop/Kinship/Emergent-Language-For-Kinship-Terms/my_code/"+mode+"_set.json", 'r') as f:
             data = json.load(f)
         cut_ids=(len(data)//32)*32
         data=data[:cut_ids]
