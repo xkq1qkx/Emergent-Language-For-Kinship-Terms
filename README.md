@@ -4,6 +4,7 @@
     <img src="images/tree.png" width="45%" height="200%" />
     <img src="images/curve.png" width="80%" />
 </p>
+
 ## Environment Setup
 
 To set up the environment, follow these steps:
